@@ -1,2 +1,5 @@
-# neko
-Neat Enough to share this Knowledge with Others
+# tutorials
+This repo is a collection of self-contained tutorials on various topics in math, physics, chemistry, economics, etc.
+
+1. Python: 2D slicer from a volumetric data
+2. ...
