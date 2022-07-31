@@ -1,6 +1,6 @@
 numpy
 matplotlib
-tqdm
+tqdm==4.62.3
 scikit-image==0.19.2
 ipywidgets
 jupyter_contrib_nbextensions
